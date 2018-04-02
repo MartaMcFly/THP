@@ -1,2 +1,1 @@
 puts "Caroline"
-puts "Cahérec"
